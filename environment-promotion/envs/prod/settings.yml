@@ -18,4 +18,8 @@ spec:
         - name: SORTING
           value: "ascending"    
         - name: N_BUCKETS
+<<<<<<< HEAD
+          value: "24"          
+=======
           value: 24"          
+>>>>>>> 2c1a002b59d03b115de917b31e48806c5b1fbf38
