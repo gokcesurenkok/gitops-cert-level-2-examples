@@ -29,5 +29,5 @@ spec:
     - group: core
       kind: Secret
        jsonPointers:
-       - /data/*
-   
+       - /data/my-password
+       - /data/my-username
