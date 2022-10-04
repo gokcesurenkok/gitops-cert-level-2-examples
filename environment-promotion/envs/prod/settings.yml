@@ -18,8 +18,4 @@ spec:
         - name: SORTING
           value: "ascending"    
         - name: N_BUCKETS
-<<<<<<< HEAD
           value: "12"      
-=======
-          value: "42"          
->>>>>>> 7ca818137e59330ccc47accdb7133307d08741c1
