@@ -10,7 +10,7 @@ spec:
       - name: webserver-simple
         env:
         - name: UI_THEME
-          value: "light"
+          value: "dark"
         - name: CACHE_SIZE
           value: "2048kb"
         - name: PAGE_LIMIT
@@ -18,4 +18,8 @@ spec:
         - name: SORTING
           value: "ascending"    
         - name: N_BUCKETS
+<<<<<<< HEAD
+          value: "12"      
+=======
           value: "42"          
+>>>>>>> 7ca818137e59330ccc47accdb7133307d08741c1
